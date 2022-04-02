@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "everfit@v0.0.1",
+      "script": "dist/main.js",
+      "env": {
+        "PORT": 80,
+        "NODE_ENV": "development",
+        "APP_NAME": "everfit"
+      }
+    }
+  ]
+}
